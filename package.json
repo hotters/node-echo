@@ -1,0 +1,17 @@
+{
+  "name": "node-echo",
+  "version": "1.0.0",
+  "description": "Echo Server for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "echo",
+    "server",
+    "host"
+  ],
+  "author": "",
+  "license": "ISC"
+}
