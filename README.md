@@ -18,5 +18,11 @@ npm start
 Run in another port
 
 ```text
-node index.js --port=6000
+node index.js --port=5000
+```
+
+Also you're able to run with ``env`` vars
+
+```text
+PORT=5000 node index.js
 ```
