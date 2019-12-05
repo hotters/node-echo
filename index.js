@@ -1,7 +1,7 @@
 const http = require('http');
 const url = require('url');
 
-let port = 3000;
+let port = process.env.PORT || 3000;
 
 process.argv.every(arg => ~arg.indexOf('--port=') ? !(port = +(arg.substring(7))) : true);
 
