@@ -1,5 +1,5 @@
 # node-echo
-📢The simpliest and smallest echo server for Node.js without dependencies
+📣 The simpliest and smallest echo server for Node.js without dependencies
 
 ## Installation
 
