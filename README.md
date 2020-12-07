@@ -1,5 +1,5 @@
 # node-echo
-📣 The simpliest and smallest echo server for Node.js without dependencies
+📣 The simpliest and smallest echo server for Node.js with no dependencies
 
 ## Installation
 
@@ -15,13 +15,13 @@ cd node-echo
 npm start
 ```
 
-Run in another port
+Run on another port
 
 ```text
 node index.js --port=5000
 ```
 
-Also you're able to run with ``env`` vars
+Also you are able to run with ``env`` vars
 
 ```text
 PORT=5000 node index.js
